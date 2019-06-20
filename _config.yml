@@ -1,0 +1,21 @@
+
+remote_theme: siddhantgoel/clean-jekyll-theme
+
+title: John Doe
+
+name: John Doe
+
+description: Site description goes here.
+
+baseurl: "/uxorious_plant_operator"
+
+lang: en
+
+github_username: johndoe
+
+social: 
+    name: John Doe
+    links:
+        - https://twitter.com/johndoe
+        - https://github.com/johndoe
+
